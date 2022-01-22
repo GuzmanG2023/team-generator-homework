@@ -1,0 +1,20 @@
+.manager {
+  background-color: aquamarine;
+}
+
+.engineer {
+  background-color: forestgreen;
+}
+
+.intern {
+  background-color: peachpuff;
+}
+
+a {
+  display: block;
+  padding: 6px;
+}
+
+body {
+  background-color: rgb(26, 117, 174);
+}
